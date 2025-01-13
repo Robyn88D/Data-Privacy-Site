@@ -1,3 +1,3 @@
-Data Privacy site
+Data Security site
 
 Made for an English class project
